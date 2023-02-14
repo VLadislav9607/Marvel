@@ -2,7 +2,7 @@
   "name": "marvel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/VLadislav9607/Marvel",
+  "homepage": "https://vladislav9607.github.io/Marvel/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
